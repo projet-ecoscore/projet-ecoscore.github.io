@@ -84,9 +84,9 @@ La complexité des chaînes d’approvisionnement mondiales pose un défi import
 
 ## Et le lecteurs et lectrices de ce document, connaisent-ils l'éco-score?
 
-Ceci est un étude interactif, qui s'expande avex le nombre des gens qui le lit. En origine, on vous a proposé trois questions. Voici votre reponse, avec ceux de tous les gens qui ont repondu avant vous. 
+Ceci est une étude interactive, qui se développe de ce que les gens le lisent. En origine, on vous a proposé trois questions. Voici votre réponse, avec ceux de tous les gens qui ont répondu avant vous.
 
-Dans ce partie final, notre objectif est de comprendre le nievaux de familiarité des lecteurs et lecturices avec l'éco-score, et leur attention à l'environnement quand ils font leurs courses.
+Dans cette partie finale, notre objectif est de comprendre le niveau de familiarité des lecteurs et lectrices avec l'éco-score et leur attention à l'environnement quand ils font leurs courses.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=84989277&amp;format=interactive"></iframe>
 
