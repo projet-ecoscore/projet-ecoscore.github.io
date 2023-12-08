@@ -82,4 +82,7 @@ La complexité des chaînes d’approvisionnement mondiales pose un défi import
 
 
 
+## Références
+
+[Cliquez ici pour aller aux références](https://telegra.ph/R%C3%A9f%C3%A9rences-12-08)
 
