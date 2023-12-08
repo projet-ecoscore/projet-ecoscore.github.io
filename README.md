@@ -1,5 +1,7 @@
 # L'éco-Score : Quantifier l'Impact Environnementale des Produits Alimentaires
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_6y8EtBnCOEhEvOXpZyhq8J5xzfhXPAyM9U1ZmRT0paAnZA/viewform?embedded=true" width="640" height="1092" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+
 ## Qu’est-ce que l’éco-score ?
 
 ![Ecoscore](https://scanup.fr/wp-content/uploads/2021/08/ecoscore-scanup-1.png)
@@ -82,7 +84,9 @@ La complexité des chaînes d’approvisionnement mondiales pose un défi import
 
 ## Et le lecteurs et lectrices de ce document, connaisent-ils l'éco-score?
 
-Ceci est un étude interactif. Avant de pouvoir lire cette page, on vous a proposé trois questions. Voici les reponses de tous les personnes qu'ont li cette étude avant que vous. Dans ce partie final, notre objectif est de comprendre le nievaux de familiarité des lecteurs et lecturices avec l'écoscore, et leurs attention à l'environnement quand ils font leurs courses.
+Ceci est un étude interactif, qui s'expande avex le nombre des gens qui le lit. En origine, on vous a proposé trois questions. Voici votre reponse, avec ceux de tous les gens qui ont repondu avant vous. 
+
+Dans ce partie final, notre objectif est de comprendre le nievaux de familiarité des lecteurs et lecturices avec l'éco-score, et leur attention à l'environnement quand ils font leurs courses.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=84989277&amp;format=interactive"></iframe>
 
