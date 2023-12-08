@@ -1,7 +1,5 @@
 # L'éco-Score : Quantifier l'Impact Environnementale des Produits Alimentaires
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf_6y8EtBnCOEhEvOXpZyhq8J5xzfhXPAyM9U1ZmRT0paAnZA/viewform?embedded=true" width="640" height="1092" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
-
 ## Qu’est-ce que l’éco-score ?
 
 ![Ecoscore](https://scanup.fr/wp-content/uploads/2021/08/ecoscore-scanup-1.png)
@@ -93,6 +91,10 @@ Dans cette partie finale, notre objectif est de comprendre le niveau de familiar
 <iframe width="600" height="412" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1622633186&amp;format=interactive"></iframe>
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=715319101&amp;format=interactive"></iframe>
+
+## Annexes 
+
+[Cliquez ici pour aller aux annexes](https://docs.google.com/document/d/1PFgETe-GTOPHZwB3fEZoIQ3QwLKW90k-JxABL-M0Rac/edit?usp=sharing)
 
 ## Références
 
