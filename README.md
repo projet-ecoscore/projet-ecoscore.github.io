@@ -83,7 +83,7 @@ La complexité des chaînes d’approvisionnement mondiales pose un défi import
 
 <iframe width="492" height="230" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1368939309&amp;format=image"></iframe>
 
-
+<iframe width="492" height="230" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1368939309&amp;format=interactive"></iframe>
 
 ![123](https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1368939309&format=image)
 
