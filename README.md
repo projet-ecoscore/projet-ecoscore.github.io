@@ -1,4 +1,4 @@
-# L'éco-Score : Quantifier l'Impact Environnementale des Produits Alimentaires
+# L'éco-Score : Quantifier l'Impact Environnemental des Produits Alimentaires
 
 ## STOP!! Avant de lire, merci de [répondre à cettes trois pétites questions](https://docs.google.com/forms/d/e/1FAIpQLSf_6y8EtBnCOEhEvOXpZyhq8J5xzfhXPAyM9U1ZmRT0paAnZA/viewform?usp=sf_link) 
 
