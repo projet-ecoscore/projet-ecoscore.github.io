@@ -81,6 +81,10 @@ Comme le développement et la promotion de l’éco-score vient de France et en 
 La complexité des chaînes d’approvisionnement mondiales pose un défi important dans le calcul précis des scores écologiques, en particulier lorsque la chaîne d’approvisionnement implique de nombreux niveaux et des réseaux complexes. À mesure que les produits passent par plusieurs niveaux de fournisseurs, chacun contribuant aux différentes étapes de la production, le suivi et la quantification de l’impact environnemental à chaque niveau deviennent de plus en plus difficiles. Le manque de transparence et de standardisation des rapports entre divers fournisseurs peut entraver la collecte de données fiables, ce qui rend difficile l’évaluation de l’empreinte écologique globale d’un produit. Cette opacité dans la chaîne d’approvisionnement peut donner lieu à un éco-score incomplet et potentiellement trompeur, car certains aspects environnementaux peuvent être négligés ou sous-estimés. Par conséquent, l’efficacité des scores écologiques pour guider les consommateurs et les entreprises vers des choix durables est compromise lorsqu’ils sont confrontés à des chaînes d’approvisionnement complexes qui manquent de transparence et de cohérence dans les pratiques de reporting. Pour relever ce défi, il faut non seulement faire progresser les technologies de suivi, mais aussi déployer des efforts concertés pour promouvoir la transparence et la coopération à tous les niveaux de la chaîne d’approvisionnement.
 
 
+<iframe width="492" height="230" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1368939309&amp;format=image"></iframe>
+
+
+
 ![123](https://docs.google.com/spreadsheets/d/e/2PACX-1vQnWPy2T5BiUMp_JOHDZkfrWq1kSXdde9zxF9DvjI5bPY6NX6qZdDin51bci9J14P3OP8Rbyv1HIKFO/pubchart?oid=1368939309&format=image)
 
 ## Références
