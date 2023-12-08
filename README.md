@@ -1,5 +1,7 @@
 # L'éco-Score : Quantifier l'Impact Environnementale des Produits Alimentaires
 
+# ALT! Avant de lir, merci de [répondre à cettes trois pétites questions](https://docs.google.com/forms/d/e/1FAIpQLSf_6y8EtBnCOEhEvOXpZyhq8J5xzfhXPAyM9U1ZmRT0paAnZA/viewform?usp=sf_link) 
+
 ## Qu’est-ce que l’éco-score ?
 
 ![Ecoscore](https://scanup.fr/wp-content/uploads/2021/08/ecoscore-scanup-1.png)
